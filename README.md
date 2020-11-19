@@ -1,7 +1,7 @@
-## gold_rate_prediction
+# gold_rate_prediction
 #Applying regression algorithm to predict the gold rate 
 
-#Overview
+##Overview
 To predict the rate of gold we studied the change the of rate of gold over a given period of time
 with respect to other commodities. Predicting the nature of change that will happen on the change of rate of other commodities we trained our algorithm.
 
@@ -9,7 +9,7 @@ Here we have trained our algorithm by plotting a map between gold rate vs other 
 
 
 #In our code: 
-						we first imported the numpy() and panda() libraries in our code.
+ 					         we first imported the numpy() and panda() libraries in our code.
 						Then we read the input data set(csv) and drew the graph of rate of gold vs other commodity and heatmap for gold rate.
 						now we fit the given data set's parameters in our model and train it.
 						Then we will try to predict the rate of gold when all other parameters are given using random forest regression model.

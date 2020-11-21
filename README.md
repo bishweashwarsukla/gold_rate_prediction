@@ -32,9 +32,4 @@ Here we have trained our algorithm by plotting a map between gold rate vs other 
     - WE CAN MAKE THE ALGORITHM SUCH THAT IT IS CAN BE APPLIED ON REAL VALUES.(by optimal use of parameters and error handling.)
 	- TO MAKE IT POSSIBLE TO IMPORT DATA SET FROM ANY LOCATION AND ALSO GIVING THE CONTROL TO DO THAT TO THE USER BY GIVING IT IN THE PROGRAM.
 	- WE CAN ADD GRAPHICAL USER INTERFACE IN THE APPLICATION SO IT IS EASY FOR THE USER TO OPERATE IT.
-					
-
-
-
-### **Summary**
-                                        
+					                         

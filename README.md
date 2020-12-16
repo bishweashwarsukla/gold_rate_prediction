@@ -1,5 +1,5 @@
 # Gold_Rate_prediction
-## Applying regression algorithm to predict the Gold Rate 
+## **Applying regression algorithm to predict the Gold Rate** 
 
 ## Overview
 To predict the rate of gold we studied the change the of rate of gold over a given period of time
